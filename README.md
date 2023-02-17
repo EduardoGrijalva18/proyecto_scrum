@@ -1,9 +1,7 @@
-Nombre del proyecto: Mark Yael
+Nombre del proyecto:
 
-Descripcion: Cuando descargues la aplicacion, el Yael va a asesorarte en Marketing
+Descripcion:
 
-Objetivos: Que los jovenes que tengan alguna duda en la carrera de marketing, se las resuelva el Yael en un chat en vivo
+Objetivos:
 
-Modelo de negocios: Poner anuncios en la app
-
-xnxx
+Modelo de negocios:
