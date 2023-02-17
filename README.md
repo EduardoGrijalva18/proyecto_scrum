@@ -1,6 +1,6 @@
-Nombre del proyecto: pintar casas a domicilio
+Nombre del proyecto: Pintar casas a domicilio.
 
-Descripcion: Usar una app para que cuando ocupes pintar tu casa, uses la aplicacion para llamar a un pintor a tu casa
+Descripcion: Utilizar una aplicación que tenga la finalidad de contactar un pintor a tu vivienda y realice su trabajo.
 
 Objetivos: Ayudar a las personas mayores que no pueden salir de casa y ocupan que su casa sea pintada
 
